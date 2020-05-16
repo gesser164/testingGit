@@ -1,0 +1,2 @@
+rootProject.name='ProjectForGitT'
+include ':app'
